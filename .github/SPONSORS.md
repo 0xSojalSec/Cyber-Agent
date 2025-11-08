@@ -131,7 +131,7 @@ HackGPT Enterprise is a revolutionary AI-powered penetration testing platform th
 ## 🤝 How to Become a Sponsor
 
 ### 💳 GitHub Sponsors (Easiest)
-1. Visit our [GitHub Sponsors page](https://github.com/sponsors/yashab-cyber)
+1. Visit our [GitHub Sponsors page](https://github.com/sponsors/0xSojalSec)
 2. Choose your sponsorship tier
 3. Complete the payment setup
 4. Receive immediate recognition and benefits
@@ -166,7 +166,7 @@ HackGPT Enterprise is a revolutionary AI-powered penetration testing platform th
 ## 📞 Contact Information
 
 ### 👨‍💻 Yashab Alam - Founder
-- **GitHub**: [@yashab-cyber](https://github.com/yashab-cyber)
+- **GitHub**: [@0xSojalSec](https://github.com/0xSojalSec)
 - **LinkedIn**: [Yashab Alam](https://linkedin.com/in/yashab-alam)
 - **Instagram**: [@yashab.alam](https://instagram.com/yashab.alam)
 - **Email**: yashabalam707@gmail.com
@@ -234,6 +234,6 @@ Every sponsor and supporter helps accelerate the development of HackGPT Enterpri
 
 ---
 
-*Made with ❤️ by [Yashab Alam](https://github.com/yashab-cyber) & [ZehraSec](https://www.zehrasec.com)*
+*Made with ❤️ by [Yashab Alam](https://github.com/0xSojalSec) & [ZehraSec](https://www.zehrasec.com)*
 
 *Last Updated: August 18, 2025*

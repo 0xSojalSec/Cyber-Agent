@@ -190,7 +190,7 @@ All payment methods are verified and legitimate. For security concerns:
 
 ### 💬 **Donation Questions**
 - **Email:** yashabalam707@gmail.com
-- **GitHub Issues:** [HackGPT Repository](https://github.com/yashab-cyber/HackGPT)
+- **GitHub Issues:** [HackGPT Repository](https://github.com/0xSojalSec/HackGPT)
 - **WhatsApp:** [Business Channel](https://whatsapp.com/channel/0029Vaoa1GfKLaHlL0Kc8k1q)
 
 ### 🌐 **Connect with ZehraSec**
@@ -203,7 +203,7 @@ All payment methods are verified and legitimate. For security concerns:
 - 💼 **LinkedIn:** [ZehraSec Company](https://www.linkedin.com/company/zehrasec)
 
 ### 👨‍💻 **Connect with Yashab Alam**
-- 💻 **GitHub:** [@yashab-cyber](https://github.com/yashab-cyber)
+- 💻 **GitHub:** [@0xSojalSec](https://github.com/0xSojalSec)
 - 📸 **Instagram:** [@yashab.alam](https://www.instagram.com/yashab.alam)
 - 💼 **LinkedIn:** [Yashab Alam](https://www.linkedin.com/in/yashab-alam)
 
@@ -272,7 +272,7 @@ Every contribution, no matter the size, helps make Metasploit-AI better for ever
 | **Total Raised** | $0 (Starting Goal) |
 | **Active Supporters** | 0 |
 | **Countries Represented** | 0 |
-| **GitHub Stars** | ⭐ [Check Live Count](https://github.com/yashab-cyber/HackGPT) |
+| **GitHub Stars** | ⭐ [Check Live Count](https://github.com/0xSojalSec/HackGPT) |
 
 ---
 
@@ -291,7 +291,7 @@ Every contribution, no matter the size, helps make Metasploit-AI better for ever
   
   <p>
     <strong>ZehraSec Website:</strong> <a href="https://www.zehrasec.com">www.zehrasec.com</a><br>
-    <strong>Repository:</strong> <a href="https://github.com/yashab-cyber/HackGPT">github.com/yashab-cyber/HackGPT</a>
+    <strong>Repository:</strong> <a href="https://github.com/0xSojalSec/HackGPT">github.com/0xSojalSec/HackGPT</a>
   </p>
   
   <p><em>Last updated: August 2025</em></p>

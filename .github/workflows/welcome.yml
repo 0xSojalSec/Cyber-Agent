@@ -28,7 +28,7 @@ jobs:
           
           ## 🤝 Want to contribute?
           - Check out our [Contributing Guide](.github/CONTRIBUTING.md)
-          - Browse [good first issues](https://github.com/yashab-cyber/HackGPT/labels/good%20first%20issue)
+          - Browse [good first issues](https://github.com/0xSojalSec/HackGPT/labels/good%20first%20issue)
           - Join our community discussions
           
           ## 💰 Support the Project
@@ -36,7 +36,7 @@ jobs:
           - 💰 [Support development](DONATE.md)
           - 📢 Share with your network
           
-          **Created by [Yashab Alam](https://github.com/yashab-cyber) & [ZehraSec](https://www.zehrasec.com)**
+          **Created by [Yashab Alam](https://github.com/0xSojalSec) & [ZehraSec](https://www.zehrasec.com)**
           
           Thank you for helping make cybersecurity more accessible through AI! 🛡️
           `;
@@ -82,7 +82,7 @@ jobs:
           
           **Welcome to the HackGPT Enterprise family! 🚀**
           
-          *Made with ❤️ by [Yashab Alam](https://github.com/yashab-cyber) & [ZehraSec](https://www.zehrasec.com)*
+          *Made with ❤️ by [Yashab Alam](https://github.com/0xSojalSec) & [ZehraSec](https://www.zehrasec.com)*
           `;
           
           github.rest.issues.createComment({
@@ -152,7 +152,7 @@ jobs:
             owner: context.repo.owner,
             repo: context.repo.repo,
             pull_number: context.issue.number,
-            reviewers: ['yashab-cyber']
+            reviewers: ['0xSojalSec']
           });
           
           // Add appropriate labels

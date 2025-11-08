@@ -32,7 +32,7 @@ git checkout -b feature/your-feature-name
 
 ### 1. 🐛 Bug Reports
 **Before submitting a bug report:**
-- Check existing [issues](https://github.com/yashab-cyber/HackGPT/issues)
+- Check existing [issues](https://github.com/0xSojalSec/HackGPT/issues)
 - Use the latest version of HackGPT
 - Test in a clean environment
 
@@ -44,7 +44,7 @@ git checkout -b feature/your-feature-name
 
 ### 2. 💡 Feature Requests
 **For new features:**
-- Check [discussions](https://github.com/yashab-cyber/HackGPT/discussions)
+- Check [discussions](https://github.com/0xSojalSec/HackGPT/discussions)
 - Use the feature request template
 - Explain the use case and benefits
 - Consider security implications
@@ -90,7 +90,7 @@ git checkout -b feature/your-feature-name
 
 ### Individual Supporters
 Support HackGPT development through:
-- **GitHub Sponsors**: [Sponsor Yashab Alam](https://github.com/sponsors/yashab-cyber)
+- **GitHub Sponsors**: [Sponsor Yashab Alam](https://github.com/sponsors/0xSojalSec)
 - **PayPal**: [paypal.me/yashab07](https://paypal.me/yashab07)
 - **Cryptocurrency**: See [DONATE.md](../DONATE.md) for addresses
 
@@ -274,7 +274,7 @@ Currently seeking translators for:
 ## 📞 Getting Help
 
 ### For Contributors
-- **Technical Questions**: [GitHub Discussions](https://github.com/yashab-cyber/HackGPT/discussions)
+- **Technical Questions**: [GitHub Discussions](https://github.com/0xSojalSec/HackGPT/discussions)
 - **Development Help**: yashabalam707@gmail.com
 - **Real-time Chat**: [WhatsApp Business Channel](https://whatsapp.com/channel/0029Vaoa1GfKLaHlL0Kc8k1q)
 

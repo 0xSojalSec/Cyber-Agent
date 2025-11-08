@@ -20,7 +20,7 @@
 
 **HackGPT Enterprise** is a production-ready, cloud-native AI-powered penetration testing platform designed for enterprise security teams. It combines advanced AI, machine learning, microservices architecture, and comprehensive security frameworks to deliver professional-grade cybersecurity assessments.
 
-**Created by [Yashab Alam](https://github.com/yashab-cyber), Founder & CEO of [ZehraSec](https://www.zehrasec.com)**
+**Created by [Yashab Alam](https://github.com/0xSojalSec), Founder & CEO of [ZehraSec](https://www.zehrasec.com)**
 
 > 💰 **Support the Project**: [Donate to HackGPT Development](DONATE.md) | Help us build the future of AI-powered penetration testing!
 
@@ -73,7 +73,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yashab-cyber/HackGPT.git
+git clone https://github.com/0xSojalSec/HackGPT.git
 cd HackGPT
 
 # Run enterprise installer (sets up all services)
@@ -601,8 +601,8 @@ This project is licensed under the MIT License with additional enterprise terms:
 
 ### Support Channels
 - **Enterprise Support**: yashabalam707@gmail.com
-- **Technical Issues**: https://github.com/yashab-cyber/HackGPT/issues
-- **Feature Requests**: https://github.com/yashab-cyber/HackGPT/discussions
+- **Technical Issues**: https://github.com/0xSojalSec/HackGPT/issues
+- **Feature Requests**: https://github.com/0xSojalSec/HackGPT/discussions
 - **Security Issues**: yashabalam707@gmail.com
 - **WhatsApp Business**: [Join Channel](https://whatsapp.com/channel/0029Vaoa1GfKLaHlL0Kc8k1q)
 
@@ -613,7 +613,7 @@ This project is licensed under the MIT License with additional enterprise terms:
 - **24/7 Support**: Enterprise support packages available
 
 ### Connect with the Team
-- **Yashab Alam**: [GitHub](https://github.com/yashab-cyber) | [Instagram](https://www.instagram.com/yashab.alam) | [LinkedIn](https://www.linkedin.com/in/yashab-alam)
+- **Yashab Alam**: [GitHub](https://github.com/0xSojalSec) | [Instagram](https://www.instagram.com/yashab.alam) | [LinkedIn](https://www.linkedin.com/in/yashab-alam)
 - **ZehraSec**: [Website](https://www.zehrasec.com) | [Instagram](https://www.instagram.com/_zehrasec) | [LinkedIn](https://www.linkedin.com/company/zehrasec)
 
 ## 📊 Project Statistics
@@ -653,7 +653,7 @@ This project is licensed under the MIT License with additional enterprise terms:
 ## 🙏 Contributors
 
 ### Core Development Team
-- **Lead Developer & Founder**: [Yashab Alam](https://github.com/yashab-cyber) - [@yashab.alam](https://www.instagram.com/yashab.alam) | [LinkedIn](https://www.linkedin.com/in/yashab-alam)
+- **Lead Developer & Founder**: [Yashab Alam](https://github.com/0xSojalSec) - [@yashab.alam](https://www.instagram.com/yashab.alam) | [LinkedIn](https://www.linkedin.com/in/yashab-alam)
 - **Company**: [ZehraSec](https://www.zehrasec.com) - Cybersecurity Solutions & Research
 - **AI/ML Engineer**: Enterprise AI Team
 - **Security Engineer**: Enterprise Security Team
@@ -713,7 +713,7 @@ HackGPT Enterprise is designed for authorized security testing only:
   <p><em>Made with ❤️ by Yashab Alam & ZehraSec for enterprise security teams worldwide</em></p>
   
   <p>
-    <a href="https://github.com/yashab-cyber/HackGPT">⭐ Star us on GitHub</a> |
+    <a href="https://github.com/0xSojalSec/HackGPT">⭐ Star us on GitHub</a> |
     <a href="DONATE.md">💰 Support Development</a> |
     <a href="#-enterprise-support">📞 Get Support</a> |
     <a href="#-contributors">🤝 Contribute</a> |
@@ -733,7 +733,7 @@ HackGPT Enterprise is designed for authorized security testing only:
   
   <p>
     <strong>Founder & Lead Developer:</strong><br>
-    <a href="https://github.com/yashab-cyber">🔧 Yashab Alam GitHub</a> |
+    <a href="https://github.com/0xSojalSec">🔧 Yashab Alam GitHub</a> |
     <a href="https://www.instagram.com/yashab.alam">📸 Personal Instagram</a> |
     <a href="https://www.linkedin.com/in/yashab-alam">💼 LinkedIn Profile</a>
   </p>

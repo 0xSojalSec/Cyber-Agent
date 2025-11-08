@@ -84,7 +84,7 @@ When using the logo, please include:
 
 ### Official Links
 - **Website**: [www.zehrasec.com](https://www.zehrasec.com)
-- **GitHub**: [@yashab-cyber](https://github.com/yashab-cyber)
+- **GitHub**: [@0xSojalSec](https://github.com/0xSojalSec)
 - **LinkedIn**: [Yashab Alam](https://linkedin.com/in/yashab-alam)
 
 ### Style Guide
@@ -94,4 +94,4 @@ For complete brand guidelines and additional assets:
 
 ---
 
-*Made with ❤️ by [Yashab Alam](https://github.com/yashab-cyber) & [ZehraSec](https://www.zehrasec.com)*
+*Made with ❤️ by [Yashab Alam](https://github.com/0xSojalSec) & [ZehraSec](https://www.zehrasec.com)*

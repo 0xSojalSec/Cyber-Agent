@@ -88,7 +88,7 @@ If you experience or witness unacceptable behavior, including violations of cybe
 - **Subject**: "[HackGPT Code of Conduct] - Brief Description"
 
 **Alternative Contacts:**
-- **GitHub Issues**: [Security-related reports](https://github.com/yashab-cyber/HackGPT/issues) (for non-sensitive matters)
+- **GitHub Issues**: [Security-related reports](https://github.com/0xSojalSec/HackGPT/issues) (for non-sensitive matters)
 - **WhatsApp Business**: [Secure Channel](https://whatsapp.com/channel/0029Vaoa1GfKLaHlL0Kc8k1q)
 
 ### What to Include
@@ -197,7 +197,7 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 **Company**: ZehraSec  
 **Email**: yashabalam707@gmail.com  
 **Website**: [www.zehrasec.com](https://www.zehrasec.com)  
-**GitHub**: [@yashab-cyber](https://github.com/yashab-cyber)
+**GitHub**: [@0xSojalSec](https://github.com/0xSojalSec)
 
 For questions about this Code of Conduct, please reach out through any of the contact methods above.
 

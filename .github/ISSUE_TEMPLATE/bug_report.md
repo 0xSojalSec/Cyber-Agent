@@ -3,7 +3,7 @@ name: 🐛 Bug Report
 about: Create a report to help us improve HackGPT Enterprise
 title: '[BUG] Brief description of the issue'
 labels: 'bug, needs-triage'
-assignees: 'yashab-cyber'
+assignees: '0xSojalSec'
 ---
 
 ## 🐛 Bug Description

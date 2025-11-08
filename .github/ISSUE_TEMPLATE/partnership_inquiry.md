@@ -3,7 +3,7 @@ name: 💰 Sponsorship & Investment Inquiry
 about: Partnership, sponsorship, or investment opportunities
 title: '[PARTNERSHIP] Company/Organization Name - Type of Inquiry'
 labels: 'partnership, sponsorship, funding'
-assignees: 'yashab-cyber'
+assignees: '0xSojalSec'
 ---
 
 <div align="center">

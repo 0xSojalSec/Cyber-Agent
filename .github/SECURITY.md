@@ -166,7 +166,7 @@ While we don't currently have a formal bug bounty program, we do provide:
 ## 🤝 Security Community
 
 ### 🌐 Connect with Us
-- **GitHub**: [@yashab-cyber](https://github.com/yashab-cyber)
+- **GitHub**: [@0xSojalSec](https://github.com/0xSojalSec)
 - **LinkedIn**: [Yashab Alam](https://linkedin.com/in/yashab-alam)
 - **Company**: [ZehraSec](https://www.zehrasec.com)
 - **WhatsApp**: [Business Channel](https://whatsapp.com/channel/0029Vaoa1GfKLaHlL0Kc8k1q)

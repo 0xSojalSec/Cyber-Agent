@@ -3,7 +3,7 @@ name: 💡 Feature Request
 about: Suggest an idea for HackGPT Enterprise
 title: '[FEATURE] Brief description of the feature'
 labels: 'enhancement, needs-review'
-assignees: 'yashab-cyber'
+assignees: '0xSojalSec'
 ---
 
 ## 💡 Feature Summary

@@ -9,7 +9,7 @@ Thank you to all the amazing people who have contributed to making HackGPT Enter
 ## 🏆 Core Development Team
 
 ### 👨‍💼 Founder & Lead Developer
-**Yashab Alam** - [@yashab-cyber](https://github.com/yashab-cyber)
+**Yashab Alam** - [@0xSojalSec](https://github.com/0xSojalSec)
 - 🏢 **Role**: Founder, CEO & Lead Developer
 - 🏛️ **Company**: ZehraSec
 - 💡 **Contributions**: Project architecture, AI integration, security frameworks, enterprise features
@@ -55,7 +55,7 @@ Thank you to all the amazing people who have contributed to making HackGPT Enter
 ### 🐛 Bug Hunters
 *Contributors who have helped identify and fix bugs.*
 
-*🔍 Help us improve! Report bugs through [GitHub Issues](https://github.com/yashab-cyber/HackGPT/issues)*
+*🔍 Help us improve! Report bugs through [GitHub Issues](https://github.com/0xSojalSec/HackGPT/issues)*
 
 ### 📚 Documentation Contributors
 *People who have improved documentation, tutorials, and guides.*
@@ -240,8 +240,8 @@ Thank you to all the amazing people who have contributed to making HackGPT Enter
 ## 📞 Community Channels
 
 ### 💬 Communication Platforms
-- **GitHub Issues**: [Bug reports and feature requests](https://github.com/yashab-cyber/HackGPT/issues)
-- **GitHub Discussions**: [Community discussions](https://github.com/yashab-cyber/HackGPT/discussions)
+- **GitHub Issues**: [Bug reports and feature requests](https://github.com/0xSojalSec/HackGPT/issues)
+- **GitHub Discussions**: [Community discussions](https://github.com/0xSojalSec/HackGPT/discussions)
 - **Email**: yashabalam707@gmail.com
 - **WhatsApp**: [Business Channel](https://whatsapp.com/channel/0029Vaoa1GfKLaHlL0Kc8k1q)
 
@@ -296,7 +296,7 @@ By contributing to HackGPT Enterprise, you agree that your contributions will be
 
 ## 🔗 Links
 
-- **Main Repository**: [github.com/yashab-cyber/HackGPT](https://github.com/yashab-cyber/HackGPT)
+- **Main Repository**: [github.com/0xSojalSec/HackGPT](https://github.com/0xSojalSec/HackGPT)
 - **Documentation**: [README.md](../README.md)
 - **Contributing Guide**: [CONTRIBUTING.md](.github/CONTRIBUTING.md)
 - **Code of Conduct**: [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md)
