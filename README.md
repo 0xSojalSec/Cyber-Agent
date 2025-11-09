@@ -588,33 +588,7 @@ python3 -c "from performance.cache_manager import warm_cache; warm_cache()"
 docker-compose up --scale hackgpt-worker=10
 ```
 
-## 📄 Enterprise License
 
-This project is licensed under the MIT License with additional enterprise terms:
-
-- **Commercial Use**: Permitted with attribution
-- **Enterprise Support**: Available through support channels
-- **Compliance**: Tool usage must comply with applicable laws
-- **Liability**: Limited liability for enterprise deployments
-
-## 🆘 Enterprise Support
-
-### Support Channels
-- **Enterprise Support**: yashabalam707@gmail.com
-- **Technical Issues**: https://github.com/0xSojalSec/HackGPT/issues
-- **Feature Requests**: https://github.com/0xSojalSec/HackGPT/discussions
-- **Security Issues**: yashabalam707@gmail.com
-- **WhatsApp Business**: [Join Channel](https://whatsapp.com/channel/0029Vaoa1GfKLaHlL0Kc8k1q)
-
-### Professional Services
-- **Implementation**: Custom deployment and configuration
-- **Training**: Security team training and certification  
-- **Custom Development**: Feature development and integration
-- **24/7 Support**: Enterprise support packages available
-
-### Connect with the Team
-- **Yashab Alam**: [GitHub](https://github.com/0xSojalSec) | [Instagram](https://www.instagram.com/yashab.alam) | [LinkedIn](https://www.linkedin.com/in/yashab-alam)
-- **ZehraSec**: [Website](https://www.zehrasec.com) | [Instagram](https://www.instagram.com/_zehrasec) | [LinkedIn](https://www.linkedin.com/company/zehrasec)
 
 ## 📊 Project Statistics
 
@@ -650,22 +624,6 @@ This project is licensed under the MIT License with additional enterprise terms:
 - [ ] Quantum-safe cryptography
 - [ ] Next-generation threat detection
 
-## 🙏 Contributors
-
-### Core Development Team
-- **Lead Developer & Founder**: [Yashab Alam](https://github.com/0xSojalSec) - [@yashab.alam](https://www.instagram.com/yashab.alam) | [LinkedIn](https://www.linkedin.com/in/yashab-alam)
-- **Company**: [ZehraSec](https://www.zehrasec.com) - Cybersecurity Solutions & Research
-- **AI/ML Engineer**: Enterprise AI Team
-- **Security Engineer**: Enterprise Security Team
-- **DevOps Engineer**: Enterprise Infrastructure Team
-
-### ZehraSec Social Media
-- 🌐 **Website**: [www.zehrasec.com](https://www.zehrasec.com)
-- 📸 **Instagram**: [@_zehrasec](https://www.instagram.com/_zehrasec?igsh=bXM0cWl1ejdoNHM4)
-- 📘 **Facebook**: [ZehraSec Official](https://www.facebook.com/profile.php?id=61575580721849)
-- 🐦 **X (Twitter)**: [@zehrasec](https://x.com/zehrasec?t=Tp9LOesZw2d2yTZLVo0_GA&s=08)
-- 💼 **LinkedIn**: [ZehraSec Company](https://www.linkedin.com/company/zehrasec)
-- 💬 **WhatsApp**: [Business Channel](https://whatsapp.com/channel/0029Vaoa1GfKLaHlL0Kc8k1q)
 
 ### Acknowledgments
 - OpenAI for GPT-4 API access
@@ -674,20 +632,6 @@ This project is licensed under the MIT License with additional enterprise terms:
 - Security research community
 - Open source tool developers
 
-### 💰 Support HackGPT Development
-Your donations help accelerate development and support the growing cybersecurity community:
-
-**Cryptocurrency Donations (Recommended):**
-- **Solana (SOL)**: `5pEwP9JN8tRCXL5Vc9gQrxRyHHyn7J6P2DCC8cSQKDKT`
-- **Bitcoin (BTC)**: `bc1qmkptg6wqn9sjlx6wf7dk0px0yq4ynr4ukj2x8c`
-
-**Traditional Payment:**
-- **PayPal**: [yashabalam707@gmail.com](https://paypal.me/yashab07)
-- **Email**: yashabalam707@gmail.com
-
-**📄 Full Donation Information**: [DONATE.md](DONATE.md) - Support tiers, funding goals, and recognition programs
-
-## ⚖️ Legal & Compliance
 
 **⚠️ IMPORTANT LEGAL NOTICE**
 
@@ -700,41 +644,3 @@ HackGPT Enterprise is designed for authorized security testing only:
 - ❌ **Unauthorized Use**: Never use against systems without permission
 - ❌ **Malicious Activity**: Not for criminal or malicious purposes
 
-**The developers and contributors are not liable for misuse of this platform.**
-
----
-
----
-
-<div align="center">
-  <img src="public/hackgpt-logo.png" alt="HackGPT Enterprise" width="150" height="auto">
-  
-  <h3>🚀 HackGPT Enterprise - Transforming Cybersecurity Through AI 🚀</h3>
-  <p><em>Made with ❤️ by Yashab Alam & ZehraSec for enterprise security teams worldwide</em></p>
-  
-  <p>
-    <a href="https://github.com/0xSojalSec/HackGPT">⭐ Star us on GitHub</a> |
-    <a href="DONATE.md">💰 Support Development</a> |
-    <a href="#-enterprise-support">📞 Get Support</a> |
-    <a href="#-contributors">🤝 Contribute</a> |
-    <a href="LICENSE">📄 License</a>
-  </p>
-</div>
-
-### 🔗 Connect with ZehraSec & Yashab Alam
-
-<div align="center">
-  <p>
-    <a href="https://www.zehrasec.com">🌐 ZehraSec Website</a> |
-    <a href="https://www.instagram.com/_zehrasec">📸 ZehraSec Instagram</a> |
-    <a href="https://www.linkedin.com/company/zehrasec">💼 ZehraSec LinkedIn</a> |
-    <a href="https://whatsapp.com/channel/0029Vaoa1GfKLaHlL0Kc8k1q">💬 WhatsApp Business</a>
-  </p>
-  
-  <p>
-    <strong>Founder & Lead Developer:</strong><br>
-    <a href="https://github.com/0xSojalSec">🔧 Yashab Alam GitHub</a> |
-    <a href="https://www.instagram.com/yashab.alam">📸 Personal Instagram</a> |
-    <a href="https://www.linkedin.com/in/yashab-alam">💼 LinkedIn Profile</a>
-  </p>
-</div>
